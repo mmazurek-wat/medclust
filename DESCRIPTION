@@ -1,0 +1,10 @@
+Package: medclust
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Marcin Mazurek
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: This package performs clustering of multidimensional time series collected on daily basis with missing values. 
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
