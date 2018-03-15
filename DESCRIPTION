@@ -1,10 +1,11 @@
 Package: medclust
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Clustering medical data
 Version: 0.1.0
 Author: Marcin Mazurek
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: This package performs clustering of multidimensional time series collected on daily basis with missing values. 
+Maintainer: Marcin Mazurek <marcin.mazurek@wat.edu.pl>
+Description: This package performs clustering of multidimensional time series collected in clinical researches 
 License: GPL-2
 Encoding: UTF-8
 LazyData: true
+Imports: plyr,zoo,dplyr,clusterSim
